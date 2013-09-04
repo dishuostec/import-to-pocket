@@ -1,0 +1,11 @@
+{
+    "name": "import-to-pocket",
+    "version": "0.0.1",
+    "description": "Import google reader starred articles to pocket",
+    "keywords": ["google reader", "pocket"],
+    "dependencies": {
+       "cache-storage": "~1.2.2",
+       "node-promise": "~0.5.8",
+       "request": "~2.27.0"
+    }
+}
